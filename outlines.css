@@ -1,0 +1,118 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@700&family=Rubik&display=swap');
+
+.navigation{
+  display: flex;
+margin-left: 80px;
+padding-top: 23px;
+}
+.navigation-list{
+  display: flex;
+  justify-content:flex-start;
+  align-items: flex-start;
+  list-style: none;
+  text-decoration: none;
+  
+  Width:648px;
+  height: 18px;
+  left: 379px;
+  top: 72px;
+}
+.navigation-item{
+  position: static;
+  margin-right: 64px;
+  font-family: 'Rubik' ;
+  font-size: 18px;
+  line-height: 19px;
+  text-transform: uppercase;
+  text-decoration: none;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin: auto;
+  color: black;
+}
+
+.navigation-link {
+    text-decoration:none;
+  }
+  .logo {
+    align-self: center;
+  }
+  header{
+    background: #589A36;
+    display: flex;
+    margin: auto;
+    padding: 5px;
+  }
+  .inst{
+    margin-left:80px;
+  }
+  .twitter{
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+.titleImage{
+  display: flex;
+    position: relative;
+    text-align: center;
+}
+.heading{
+  position: absolute;
+    top: 73px;
+    left: 80px;
+    font-family: "Bellota";
+font-weight: bold;
+font-size: 48px;
+line-height: 78px;
+text-transform: uppercase;
+color: #073004;
+
+}
+.headingText{
+  position: absolute;
+  top: 173px;
+  left: 80px;
+  right:1105px;
+  text-align: left;
+  Vertical-align: Top;
+  Font-family: 'Rubik';
+  font-size: 18px;
+  Line-height: 28px;
+  font-style: 'light';
+  color:#290E05;
+  
+}
+
+.shtam{
+  position: absolute;
+  top: 68px;
+  left: 815px;
+}
+
+.buy{
+  position: absolute;
+  top: 406px;
+  left: 80px;
+  right:1610px;
+}
+
+.price{
+  position: absolute;
+  top: 390px;
+  left: 346px;
+  right:1469px;
+  font-family: "Rubik";
+font-size: 24px;
+line-height: 34px;
+color: #290E05;
+opacity: 0.9;
+}
+
+.intro{
+  display: flex;
+  align-items: start;
+}
+.tromb{
+  display: grid;
+}
