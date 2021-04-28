@@ -2,13 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bellota:wght@700&family=Rubik&display=swap');
 
 .navigation{
-  display: flex;
+display: flex;
 margin-left: 80px;
 padding-top: 23px;
 }
 .navigation-list{
   display: flex;
   justify-content:flex-start;
+  flex-wrap:wrap;
   align-items: flex-start;
   list-style: none;
   text-decoration: none;
